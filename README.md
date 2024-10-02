@@ -4,7 +4,11 @@ It facilitates the management of blood donations, donor information, and blood r
 
 Getting Started:
 Clone the repository.
+
 Set up a virtual environment and install dependencies.
+
 Configure the database settings.
+
 Run the development server.
+
 Explore the code and contribute to improving blood donation awareness and efficiency!
